@@ -1,0 +1,2 @@
+Asynchronous grep plugin for neovim.
+See comments in async_grep.vim for documentation.
